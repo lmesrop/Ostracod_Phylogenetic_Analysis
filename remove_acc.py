@@ -6,7 +6,7 @@
 
 #!/usr/bin/python
 #This script checks if the accession numbers in the .txt files match the accession numbers from .phytab files. Accession numbers in .phytab files were retrieved from Genbank. If the accession numbers match, then it will place them in a match folder. If the accession numbers don't match, then it will place them in a delete folder.   
-#USAGE: python ./remove_acc_nomatch_LM.py
+#USAGE: python ./remove_acc.py
 #Author: Lisa Mesrop
 
 
